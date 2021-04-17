@@ -1,0 +1,16 @@
+---
+title: x86/64指令编码内幕
+keywords: instruction, x86_64
+toc_max: 4
+---
+== 1. Legacy prefix
+
+=== 1.1 legacy prefix 的作用
+
+legacy prefix 主要有以下作用：
+
+image::images/highlighter.png[]
+
+leagcy prefix 包括下面几类：
+
+image::images/tiger.png[]
